@@ -1,1 +1,1 @@
-# @aphrodite/mini-store
+# @charsmart/mini-store

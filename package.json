@@ -1,27 +1,27 @@
 {
-    "name": "@charsmart/mini-store",
-    "version": "0.0.1",
-    "description": "",
-    "main": "lib/index.js",
-    "files": [
-        "lib"
-    ],
-    "scripts": {
-        "build": "rimraf lib && tsc",
-        "prepare": "npm run build"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git@github.com:swufexlm/mini-store.git"
-    },
-    "author": "lanmi.xin@charsmart.com",
-    "license": "MIT",
-    "devDependencies": {
-        "rimraf": "^3.0.0",
-        "tsc": "^1.20150623.0",
-        "typescript": "^3.7.2"
-    },
-    "dependencies": {
-        "deepmerge": "^4.2.2"
-    }
+  "name": "@charsmart/mini-store",
+  "version": "0.0.1",
+  "description": "",
+  "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "build": "rimraf lib && tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:swufexlm/mini-store.git"
+  },
+  "author": "lanmi.xin@charsmart.com",
+  "license": "MIT",
+  "devDependencies": {
+    "rimraf": "^3.0.0",
+    "tsc": "^1.20150623.0",
+    "typescript": "^3.7.2"
+  },
+  "dependencies": {
+    "deepmerge": "^4.2.2"
+  }
 }
